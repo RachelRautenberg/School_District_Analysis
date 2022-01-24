@@ -18,6 +18,6 @@ The adjustment made to account for the academic dishonesty resulted in slightly 
 Because the adjustment was made specifically for Thomas High School, the only change was to the averages and percentages for Thomas High School; while the student count does remain the same, the average and passing information is much more accurate and shows slight variation compared to the initial analysis. Thomas High initial results are included below. The other schools remaine, understandably, not affected by the adjusted analysis.  The image below is of the final adjusted, since the other schools results were the same as the initial analysis.
 
 ![thomas_high_initial](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/thomas_high_initial.PNG)
-![adjusted_per_school]
+![adjusted_per_school](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/adjusted_per_school.PNG)
 
 

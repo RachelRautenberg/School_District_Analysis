@@ -26,6 +26,6 @@ Because the adjustment was made specifically for Thomas High School, the only ch
 ![adjusted_per_school](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/adjusted_per_school_summary.PNG)
 
 ##### REMOVAL OF THOMAS HIGH NINTH GRADE DATA
-    * 
+    -
 
 

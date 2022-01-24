@@ -30,4 +30,5 @@ Because the adjustment was made specifically for Thomas High School, the only ch
 * Math and reading scores for 9th grade are now NaN, while 10th, 11th, and 12th remain unchanged. 
 * Additionally, spend per student remains unchanged. Regardless of the academic honesty issue the number of students and budget was not affected by the removal of data. 
    ![spending_per_student](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/spending%20per%20student.PNG)
-
+* The same is true when analyzing averagae and passing scores by school size.
+   ![scores_by_size](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/scores_by_size.PNG)

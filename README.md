@@ -26,6 +26,7 @@ Because the adjustment was made specifically for Thomas High School, the only ch
 ![adjusted_per_school](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/adjusted_per_school_summary.PNG)
 
 ##### REMOVAL OF THOMAS HIGH NINTH GRADE DATA
-    -
+    - The removal of the ninth grades scores for Thomas High School did not result in a change to their standings for overall passing percentages; they remain a top performing school.
+    - Math and reading scores for 9th grade are now NaN, while 10th, 11th, and 12th remain unchanged. 
 
 

@@ -13,3 +13,11 @@ With the initial analysis complete and approved, the adjustments required us to 
 ![adjusted_district_summary](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/adjusted_district_summary.PNG)
 
 The adjustment made to account for the academic dishonesty resulted in slightly lower average math scores and passing percentages in math, reading, and overall. The only area that does not show as being affected is average reading. 
+
+##### PER SCHOOL SUMMARY
+Because the adjustment was made specifically for Thomas High School, the only change was to the averages and percentages for Thomas High School; while the student count does remain the same, the average and passing information is much more accurate and shows slight variation compared to the initial analysis. Thomas High initial results are included below. The other schools remaine, understandably, not affected by the adjusted analysis.  The image below is of the final adjusted, since the other schools results were the same as the initial analysis.
+
+![thomas_high_initial]
+![adjusted_per_school]
+
+

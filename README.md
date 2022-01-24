@@ -11,4 +11,5 @@ With the initial analysis complete and approved, the adjustments required us to 
 ##### DISTRICT SUMMARY
 ![original_district_summary](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/original_district_summary.PNG)
 ![adjusted_district_summary](https://github.com/RachelRautenberg/School_District_Analysis/blob/main/Resources/adjusted_district_summary.PNG)
+
 The adjustment made to account for the academic dishonesty resulted in slightly lower average math scores and passing percentages in math, reading, and overall. The only area that does not show as being affected is average reading. 
